@@ -1,0 +1,11 @@
+/* Global */
+/* ------------------------------------ */
+@import "global/fonts.css";
+@import "global/reboot.css";
+@import "global/visually-hidden.css";
+
+/* Blocks */
+/* ------------------------------------ */
+@import "blocks/footer.css";
+@import "blocks/social.css";
+@import "blocks/breadcrumbs.css";
