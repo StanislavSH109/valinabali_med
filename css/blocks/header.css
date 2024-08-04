@@ -16,6 +16,7 @@
 .header__about-company-list {
     display: flex;
     justify-content: flex-start;
+    flex-wrap: wrap;
     list-style: none;
     gap: 30px;
     margin: 0;
@@ -37,6 +38,7 @@
 .header__right-list {
     display: flex;
     list-style: none;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
     gap: 20px;
