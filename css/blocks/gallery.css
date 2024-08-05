@@ -62,16 +62,3 @@
     grid-row: 3 / 6;
 }
 
-.gallery__button {
-    border: 1px solid #9E5FC4;
-    border-radius: 60px;
-    background: none;
-    font-size: 14px;
-    line-height: 18px;
-    font-weight: 500;
-    width: 100%;
-    padding: 14px;
-    margin: 0;
-    color: #9E5FC4;
-    cursor: pointer;
-}
